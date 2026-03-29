@@ -14,7 +14,7 @@
 */
   define( 'DB_HOST', '172.21.0.48' );          // Set database host
   define( 'DB_USER', 'luiz.dornelas' );             // Set database user
-  define( 'DB_PASS', 'T0psecretl' );             // Set database password
+  define( 'DB_PASS', '********' );             // Set database password
   define( 'DB_NAME', 'winostock' );        // Set database name
 
 ?>
